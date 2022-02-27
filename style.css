@@ -1,0 +1,33 @@
+#main{
+    /* display : inline-block; */
+    width : 65vw;
+    max-width: 300px;
+    height : 90vh;
+    max-height: 100vh;
+    margin : 0px auto;
+    /* border : 3px solid #2c414f; */
+    overflow: visible;
+    /* scrollbar-width: 2px; */
+}
+
+body{
+    /* background: #2c414f; */
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    margin: 0;padding: 0;
+}
+.heading{
+    background : #2980b9;
+    /* border : 2px dashed chartreuse; */
+    padding : 3px;
+    display: block;
+}
+
+.title{
+    margin : 0px auto;
+}
+td{
+    border:1px solid gold;
+}
+#tableRow-task{
+    margin : 3px;
+}
